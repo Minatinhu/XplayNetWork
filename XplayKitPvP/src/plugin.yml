@@ -1,0 +1,6 @@
+name: XKitPvp
+version: 1.0B
+author: Minatogamer42
+main: minato.kitpvp.main.Main
+commands:
+  limparchat:
